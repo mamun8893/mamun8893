@@ -14,8 +14,7 @@
   🎓 I graduated from World University of Bangladesh Computer Engineering & Engineering Department
   <br>
   💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with React JS
+
   <br>
   💬 Ask me anything about from <a href="https://github.com/mamun8893" title="Issues">Here</a>
   <br>
