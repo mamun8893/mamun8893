@@ -118,7 +118,7 @@
 1. Live Demo : https://trip-world-2e3ee.web.app/  
 2. Client Code: https://github.com/mamun8893/Travel-Booking                                                                                                              
 3. Server Code: https://github.com/mamun8893/Travel-Booking-Server             
-4. Technology : ReactJS,Context API, NodeJS, Express, MongoDB, Firebase, React Boostrap, CSS, HTML
+4. Technology : ReactJS,Context API, NodeJS, Express, MongoDB, Firebase, React Boostrap, HTML, CSS
                                                                                                                                          
 ![ss](https://raw.githubusercontent.com/mamun8893/image/main/Travel-booking.png)
 </details>    
@@ -128,7 +128,7 @@
 
 1. Live Demo : https://medihealth-care-e46d9.web.app/  
 2. Code: https://github.com/mamun8893/Health-Care                                                                                                                          
-4. Technology : ReactJS, Context API, Firebase, React Boostrap, CSS, HTML
+4. Technology : ReactJS, Context API, Firebase, React Boostrap, HTML, CSS
                                                                                                                                          
 ![ss](https://raw.githubusercontent.com/mamun8893/image/main/health-care.png)
 </details>                                                                                                                                          
