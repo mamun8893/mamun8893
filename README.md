@@ -131,6 +131,16 @@
 4. Technology : ReactJS, Context API, Firebase, React Boostrap, HTML, CSS
                                                                                                                                          
 ![ss](https://raw.githubusercontent.com/mamun8893/image/main/health-care.png)
+</details>   
+ 
+ <details>
+<summary>Study Tech web app</summary>
+
+1. Live Demo : https://studytech22.netlify.app/ 
+2. Code: https://github.com/mamun8893/Study-Tech                                                                                                                          
+4. Technology : ReactJS, React Boostrap, HTML, CSS
+                                                                                                                                         
+![ss](https://raw.githubusercontent.com/mamun8893/image/main/study-tech.png)
 </details>                                                                                                                                          
 
 <h2 align="center"> 𝗩ISITORS </h2>
