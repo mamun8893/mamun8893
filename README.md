@@ -177,7 +177,8 @@
 ![ss](https://raw.githubusercontent.com/mamun8893/image/main/pin-match.png)
 </details> 
   
-    <details>
+                                                                                                                                         
+<details>
 <summary>Simple Bank Transaction</summary>
 
 1. Live Demo : https://mamun8893.github.io/simple-bank-transaction/
