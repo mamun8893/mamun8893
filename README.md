@@ -130,7 +130,7 @@
 
 1. Live Demo : https://medihealth-care-e46d9.web.app/  
 2. Code: https://github.com/mamun8893/Health-Care                                                                                                                          
-4. Technology : ReactJS, Context API, Firebase, React Boostrap, HTML, CSS
+3. Technology : ReactJS, Context API, Firebase, React Boostrap, HTML, CSS
                                                                                                                                          
 ![ss](https://raw.githubusercontent.com/mamun8893/image/main/health-care.png)
 </details>   
@@ -140,10 +140,32 @@
 
 1. Live Demo : https://studytech22.netlify.app/ 
 2. Code: https://github.com/mamun8893/Study-Tech                                                                                                                          
-4. Technology : ReactJS, React Boostrap, HTML, CSS
+3. Technology : ReactJS, React Boostrap, HTML, CSS
                                                                                                                                          
 ![ss](https://raw.githubusercontent.com/mamun8893/image/main/study-tech.png)
-</details>                                                                                                                                          
+</details>    
+                                                                                                                                         
+ ## 📢 Vanila JS Projects    
+  
+  <details>
+<summary>Covid-19 Live Tracker</summary>
+
+1. Live Demo : https://mamun8893.github.io/covid-19-tracker/
+2. Code: https://github.com/mamun8893/covid-19-tracker                                                                                                                     
+3. Technology : JavaScript, HTML, CSS
+                                                                                                                                         
+![ss](https://raw.githubusercontent.com/mamun8893/image/main/covid-19-tracker.png)
+</details> 
+  
+   <details>
+<summary>Weather App</summary>
+
+1. Live Demo : https://mamun8893.github.io/weather/
+2. Code: https://github.com/mamun8893/weather                                                                                                                     
+3. Technology : JavaScript, HTML, CSS
+                                                                                                                                         
+![ss](https://raw.githubusercontent.com/mamun8893/image/main/weather.png)
+</details>                                                                                                                                         
 
 <h2 align="center"> 𝗩ISITORS </h2>
 <p align="center">
