@@ -165,8 +165,28 @@
 3. Technology : JavaScript, HTML, CSS
                                                                                                                                          
 ![ss](https://raw.githubusercontent.com/mamun8893/image/main/weather.png)
-</details>                                                                                                                                         
+</details>     
+                                                                                                                                         
+   <details>
+<summary>Pin Matching Application</summary>
 
+1. Live Demo : https://mamun8893.github.io/javascript-pin-matcher/
+2. Code: https://github.com/mamun8893/javascript-pin-matcher                                                                                                                     
+3. Technology : JavaScript, HTML, CSS
+                                                                                                                                         
+![ss](https://raw.githubusercontent.com/mamun8893/image/main/pin-match.png)
+</details> 
+  
+    <details>
+<summary>Simple Bank Transaction</summary>
+
+1. Live Demo : https://mamun8893.github.io/simple-bank-transaction/
+2. Code: https://github.com/mamun8893/simple-bank-transaction                                                                                                                     
+3. Technology : JavaScript, HTML, CSS
+                                                                                                                                         
+![ss](https://raw.githubusercontent.com/mamun8893/image/main/bank.png)
+</details>                                                                                                                                         
+                                                                                                                                         
 <h2 align="center"> 𝗩ISITORS </h2>
 <p align="center">
     <img title="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=mamun8893" />
