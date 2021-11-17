@@ -77,37 +77,7 @@
   </tr>
   <tr>
 
-    <td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://www.json.org/img/json160.gif" width="48" height="48" alt="json" />
-      </a>
-      <br>JSON
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://raw.githubusercontent.com/Mrmmamun/image/main/php.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/Mrmmamun/image/0ff6d08ebf4cb272a3e1f80195768b9a53bf77b1/git-original.svg" width="48" height="48" alt="git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/Mrmmamun/image/f76e3df4e9204a0ed42857996cf369db2fc23d34/c.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>C 
-    </td>
-    <td align="center" width="96">
-     <a href="#">
-        <img src="https://raw.githubusercontent.com/Mrmmamun/image/main/visualstudio.png" width="48" height="48" alt="Visual Studio Code" />
-      </a>
-      <br>vs code
-    </td>
-  </tr>
+   
 </table>
 
 <hr>
