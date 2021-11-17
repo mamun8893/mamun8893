@@ -71,12 +71,7 @@
       </a>
       <br>React
     </td>
-     <td align="center" width="96">
-      <a href="#" >
-        <img src="https://raw.githubusercontent.com/mamun8893/image/main/node%20js.png" width="48" height="48" alt="Node js" />
-      </a>
-      <br>Node JS
-    </td>
+   
    
    
   </tr>
