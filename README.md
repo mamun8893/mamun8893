@@ -125,87 +125,98 @@
     </td>
   </tr>
 
-   
 </table>
 
 <hr>
 
 # 🚀 Some Projects
 
-## 📢 React Projects                                                                                                                                        
+## 📢 React Projects
 
- <details>
-<summary>Be-Bike Professional Bike Store</summary>
+- Be-Bike Professional Bike Store
+  <details>
+     <summary>Preview</summary>
+      Email: admin@admin.com <br>
+      password: 123456  <br>
+  1. Live Demo : https://be-bike-433f2.web.app/
+  2. Client Code: https://github.com/mamun8893/be-bike-client
+  3. Server Code: https://github.com/mamun8893/be-bike-server
+  4. Technology : ReactJS,Context API, NodeJS, Express, MongoDB, Firebase, Material UI, HTML, CSS
 
-1. Live Demo : https://be-bike-433f2.web.app/  
-2. Client Code: https://github.com/mamun8893/be-bike-client                                                                                                              
-3. Server Code: https://github.com/mamun8893/be-bike-server             
-4. Technology : ReactJS,Context API, NodeJS, Express, MongoDB, Firebase, Material UI, HTML, CSS
-                                                                                                                                         
-![ss](https://raw.githubusercontent.com/mamun8893/image/main/be-bike.png)
-</details>                                                                                                                                           
-                                                                                                                                         
-<details>
-<summary>Travel Booking web app</summary>
+  ![ss](https://raw.githubusercontent.com/mamun8893/image/main/be-bike.png)
 
-1. Live Demo : https://trip-world-2e3ee.web.app/  
-2. Client Code: https://github.com/mamun8893/Travel-Booking                                                                                                              
-3. Server Code: https://github.com/mamun8893/Travel-Booking-Server             
-4. Technology : ReactJS,Context API, NodeJS, Express, MongoDB, Firebase, React Boostrap, HTML, CSS
-                                                                                                                                         
-![ss](https://raw.githubusercontent.com/mamun8893/image/main/Travel-booking.png)
-</details>    
- 
-<details>
-<summary>Health Care web app</summary>
+     </details>
 
-1. Live Demo : https://medihealth-care-e46d9.web.app/  
-2. Code: https://github.com/mamun8893/Health-Care                                                                                                                          
-3. Technology : ReactJS, Context API, Firebase, React Boostrap, HTML, CSS
-                                                                                                                                         
-![ss](https://raw.githubusercontent.com/mamun8893/image/main/health-care.png)
-</details>   
- 
- <details>
-<summary>Study Tech web app</summary>
+- Travel Booking web app
+  <details>
+  <summary>Preview</summary>
 
-1. Live Demo : https://studytech22.netlify.app/ 
-2. Code: https://github.com/mamun8893/Study-Tech                                                                                                                          
-3. Technology : ReactJS, React Boostrap, HTML, CSS
-                                                                                                                                         
-![ss](https://raw.githubusercontent.com/mamun8893/image/main/study-tech.png)
-</details>    
-                                                                                                                                         
- ## 📢 Vanila JS Projects    
-  
+  1. Live Demo : https://trip-world-2e3ee.web.app/
+  2. Client Code: https://github.com/mamun8893/Travel-Booking
+  3. Server Code: https://github.com/mamun8893/Travel-Booking-Server
+  4. Technology : ReactJS,Context API, NodeJS, Express, MongoDB, Firebase, React Boostrap, HTML, CSS
+
+  ![ss](https://raw.githubusercontent.com/mamun8893/image/main/Travel-booking.png)
+
+  </details>
+
+- Health Care web app
+  <details>
+  <summary>Preview</summary>
+
+  1. Live Demo : https://medihealth-care-e46d9.web.app/
+  2. Code: https://github.com/mamun8893/Health-Care
+  3. Technology : ReactJS, Context API, Firebase, React Boostrap, HTML, CSS
+
+  ![ss](https://raw.githubusercontent.com/mamun8893/image/main/health-care.png)
+
+  </details>
+
+- Study Tech web app
+  <details>
+  <summary>Preview</summary>
+
+  1. Live Demo : https://studytech22.netlify.app/
+  2. Code: https://github.com/mamun8893/Study-Tech
+  3. Technology : ReactJS, React Boostrap, HTML, CSS
+
+  ![ss](https://raw.githubusercontent.com/mamun8893/image/main/study-tech.png)
+
+    </details>
+
+## 📢 Vanila JS Projects
+
   <details>
 <summary>Covid-19 Live Tracker</summary>
 
 1. Live Demo : https://mamun8893.github.io/covid-19-tracker/
-2. Code: https://github.com/mamun8893/covid-19-tracker                                                                                                                     
+2. Code: https://github.com/mamun8893/covid-19-tracker
 3. Technology : JavaScript, HTML, CSS
-                                                                                                                                         
+
 ![ss](https://raw.githubusercontent.com/mamun8893/image/main/covid-19-tracker.png)
+
 </details> 
   
    <details>
 <summary>Weather App</summary>
 
 1. Live Demo : https://mamun8893.github.io/weather/
-2. Code: https://github.com/mamun8893/weather                                                                                                                     
+2. Code: https://github.com/mamun8893/weather
 3. Technology : JavaScript, HTML, CSS
-                                                                                                                                         
+
 ![ss](https://raw.githubusercontent.com/mamun8893/image/main/weather.png)
+
 </details>     
                                                                                                                                          
    <details>
 <summary>Pin Matching Application</summary>
 
 1. Live Demo : https://mamun8893.github.io/javascript-pin-matcher/
-2. Code: https://github.com/mamun8893/javascript-pin-matcher                                                                                                                     
+2. Code: https://github.com/mamun8893/javascript-pin-matcher
 3. Technology : JavaScript, HTML, CSS
-                                                                                                                                         
+
 ![ss](https://raw.githubusercontent.com/mamun8893/image/main/pin-match.png)
+
 </details> 
   
                                                                                                                                          
@@ -213,10 +224,11 @@
 <summary>Simple Bank Transaction</summary>
 
 1. Live Demo : https://mamun8893.github.io/simple-bank-transaction/
-2. Code: https://github.com/mamun8893/simple-bank-transaction                                                                                                                     
+2. Code: https://github.com/mamun8893/simple-bank-transaction
 3. Technology : JavaScript, HTML, CSS
-                                                                                                                                         
+
 ![ss](https://raw.githubusercontent.com/mamun8893/image/main/bank.png)
+
 </details>                                                                                                                                         
                                                                                                                                          
 <h2 align="center"> 𝗩ISITORS </h2>
@@ -227,4 +239,3 @@
 <p align="center">
   <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
 </p>
-
