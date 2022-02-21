@@ -137,7 +137,7 @@
   <details>
      <summary>Preview</summary>
    
-  1. Live Demo : https://be-bike-433f2.web.app/
+  1. Live Demo : https://be-bike-433f2.web.app/  ( Email: admin@admin.com, password: 123456)
   2. Client Code: https://github.com/mamun8893/be-bike-client
   3. Server Code: https://github.com/mamun8893/be-bike-server
   4. Technology : ReactJS,Context API, NodeJS, Express, MongoDB, Firebase, Material UI, HTML, CSS
@@ -231,8 +231,7 @@
 
   ![ss](https://raw.githubusercontent.com/mamun8893/image/main/bank.png)
 
-    </details>                                                                                                                                         
-
+    </details>
 
 <h2 align="center"> 𝗩ISITORS </h2>
 <p align="center">
