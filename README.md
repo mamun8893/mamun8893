@@ -136,8 +136,7 @@
 - Be-Bike Professional Bike Store
   <details>
      <summary>Preview</summary>
-      Email: admin@admin.com <br>
-      password: 123456  <br>
+   
   1. Live Demo : https://be-bike-433f2.web.app/
   2. Client Code: https://github.com/mamun8893/be-bike-client
   3. Server Code: https://github.com/mamun8893/be-bike-server
@@ -186,51 +185,55 @@
 
 ## 📢 Vanila JS Projects
 
+- Covid-19 Live Tracker
   <details>
-<summary>Covid-19 Live Tracker</summary>
+  <summary>Preview</summary>
 
-1. Live Demo : https://mamun8893.github.io/covid-19-tracker/
-2. Code: https://github.com/mamun8893/covid-19-tracker
-3. Technology : JavaScript, HTML, CSS
+  1. Live Demo : https://mamun8893.github.io/covid-19-tracker/
+  2. Code: https://github.com/mamun8893/covid-19-tracker
+  3. Technology : JavaScript, HTML, CSS
 
-![ss](https://raw.githubusercontent.com/mamun8893/image/main/covid-19-tracker.png)
+  ![ss](https://raw.githubusercontent.com/mamun8893/image/main/covid-19-tracker.png)
 
-</details> 
-  
-   <details>
-<summary>Weather App</summary>
+      </details>
 
-1. Live Demo : https://mamun8893.github.io/weather/
-2. Code: https://github.com/mamun8893/weather
-3. Technology : JavaScript, HTML, CSS
+- Weather App
+  <details>
+    <summary>Preview</summary>
 
-![ss](https://raw.githubusercontent.com/mamun8893/image/main/weather.png)
+  1. Live Demo : https://mamun8893.github.io/weather/
+  2. Code: https://github.com/mamun8893/weather
+  3. Technology : JavaScript, HTML, CSS
 
-</details>     
-                                                                                                                                         
-   <details>
-<summary>Pin Matching Application</summary>
+  ![ss](https://raw.githubusercontent.com/mamun8893/image/main/weather.png)
 
-1. Live Demo : https://mamun8893.github.io/javascript-pin-matcher/
-2. Code: https://github.com/mamun8893/javascript-pin-matcher
-3. Technology : JavaScript, HTML, CSS
+  </details>
 
-![ss](https://raw.githubusercontent.com/mamun8893/image/main/pin-match.png)
+- Pin Matching Application
+    <details>
+    <summary>Preview</summary>
 
-</details> 
-  
-                                                                                                                                         
-<details>
-<summary>Simple Bank Transaction</summary>
+  1. Live Demo : https://mamun8893.github.io/javascript-pin-matcher/
+  2. Code: https://github.com/mamun8893/javascript-pin-matcher
+  3. Technology : JavaScript, HTML, CSS
 
-1. Live Demo : https://mamun8893.github.io/simple-bank-transaction/
-2. Code: https://github.com/mamun8893/simple-bank-transaction
-3. Technology : JavaScript, HTML, CSS
+  ![ss](https://raw.githubusercontent.com/mamun8893/image/main/pin-match.png)
 
-![ss](https://raw.githubusercontent.com/mamun8893/image/main/bank.png)
+  </details>
 
-</details>                                                                                                                                         
-                                                                                                                                         
+- Simple Bank Transaction
+  <details>
+    <summary>Preview</summary>
+
+  1. Live Demo : https://mamun8893.github.io/simple-bank-transaction/
+  2. Code: https://github.com/mamun8893/simple-bank-transaction
+  3. Technology : JavaScript, HTML, CSS
+
+  ![ss](https://raw.githubusercontent.com/mamun8893/image/main/bank.png)
+
+    </details>                                                                                                                                         
+
+
 <h2 align="center"> 𝗩ISITORS </h2>
 <p align="center">
     <img title="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=mamun8893" />
