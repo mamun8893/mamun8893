@@ -236,7 +236,7 @@
 </br>
 </br>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mamun8893&card_width=550)](https://github.com/mamun8893)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mamun8893&card_width=555)](https://github.com/mamun8893)
 
 <h2 align="center"> 𝗩ISITORS </h2>
 <p align="center">
