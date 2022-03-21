@@ -158,6 +158,19 @@
   ![ss](https://raw.githubusercontent.com/mamun8893/image/main/Travel-booking.png)
 
   </details>
+     </details>
+
+- Google Search Clone
+  <details>
+  <summary>Preview</summary>
+
+  1. Live Demo : https://google-searchs.netlify.app/search
+  2. Code: https://github.com/mamun8893/google-search-clone
+  3. Technology : ReactJS,Context API,Rapid API, Tailwind CSS, HTML, CSS
+
+  ![ss](https://raw.githubusercontent.com/mamun8893/image/main/google-clone.png)
+
+  </details>                                                                                                                               
 
 - Health Care web app
   <details>
