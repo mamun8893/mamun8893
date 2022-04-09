@@ -170,7 +170,18 @@
 
   ![ss](https://raw.githubusercontent.com/mamun8893/image/main/google-clone.png)
 
-  </details>                                                                                                                               
+  </details>
+ - AI News App
+    <details>
+    <summary>Preview</summary>
+
+    1. Live Demo : https://newsai-app.netlify.app/
+    2. Code: https://github.com/mamun8893/AI_News_App
+    3. Technology : ReactJS,Alan AI, Material UI, HTML, CSS
+
+    ![ss](https://raw.githubusercontent.com/mamun8893/image/main/ai-news.png)
+
+    </details>                                                                                                                                  
 
 - Health Care web app
   <details>
