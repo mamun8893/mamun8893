@@ -70,27 +70,7 @@
         <img src="https://raw.githubusercontent.com/Mrmmamun/image/70e139a6c5cd7be316986f6269ac5f7b7ab9d60c/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://raw.githubusercontent.com/mamun8893/image/main/node-2.png" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>                                                                                                                      
-      <td align="center" width="96">
-      <a href="#" >
-        <img src="https://raw.githubusercontent.com/mamun8893/image/main/express.png" width="48" height="48" alt="Express JS" />
-      </a>
-      <br>Express JS
-    </td>
-     <td align="center" width="96">
-      <a href="#" >
-        <img src="https://raw.githubusercontent.com/mamun8893/image/main/mongodb-logo.png" width="48" height="48" alt="Mongo DB" />
-      </a>
-      <br>Mongo DB
-    </td>                                                                                                                        
-   
-   
+    </td>                                                                                                                            
   </tr>
   <tr>
   <td align="center" width="96"> 
@@ -98,12 +78,6 @@
         <img src="https://www.json.org/img/json160.gif" width="48" height="48" alt="json" />
       </a>
       <br>JSON
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://raw.githubusercontent.com/Mrmmamun/image/main/php.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
     </td>
     <td align="center"  width="96">
       <a href="#">
