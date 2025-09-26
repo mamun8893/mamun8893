@@ -3,7 +3,7 @@
   <code>
     <a href="https://www.linkedin.com/in/mamun8893/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.facebook.com/mamun8893/" title="Facebook Profile"><img width="22" src="https://raw.githubusercontent.com/Mrmmamun/image/main/124010.png">Facebook</a></code>
-    <code><a href="http://mrmamun.info/" title="Personal Website"><img width="22" src="https://raw.githubusercontent.com/Mrmmamun/image/main/icon-website-7.jpg"> Website</a></code>
+    <code><a href="#" title="Personal Website"><img width="22" src="https://raw.githubusercontent.com/Mrmmamun/image/main/icon-website-7.jpg"> Website</a></code>
   <code><a href="#" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
@@ -157,6 +157,8 @@
 <h2 align="center"> 𝗩ISITORS </h2>
 <p align="center">
     <img title="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=mamun8893" />
+  ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 </p>
 <br>
 <p align="center">
