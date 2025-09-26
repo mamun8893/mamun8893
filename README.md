@@ -47,6 +47,13 @@
       </a>
       <br>SASS
     </td>
+   </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/mamun8893/image/refs/heads/main/tailwind-css-2.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Tailwind CSS
+    </td>
      <td align="center" width="96">
       <a href="#">
         <img src="https://raw.githubusercontent.com/Mrmmamun/image/main/768px-Bootstrap_logo.svg.png" width="48" height="48" alt="Bootstrap" />
@@ -77,14 +84,39 @@
       </a>
       <br>Jquery
     </td>
-     <td align="center" width="96">
+                                                                                                                             
+  </tr>
+  <tr>
+      <td align="center" width="96">
       <a href="#" >
         <img src="https://raw.githubusercontent.com/Mrmmamun/image/70e139a6c5cd7be316986f6269ac5f7b7ab9d60c/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
-    </td>                                                                                                                            
-  </tr>
-  <tr>
+    </td>  
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://raw.githubusercontent.com/mamun8893/image/refs/heads/main/next-js.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>Next JS
+    </td>  
+     <td align="center" width="96">
+      <a href="#" >
+        <img src="https://raw.githubusercontent.com/mamun8893/image/refs/heads/main/redux.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>Redux
+    </td>  
+     <td align="center" width="96">
+      <a href="#" >
+        <img src="https://raw.githubusercontent.com/mamun8893/image/refs/heads/main/typescript.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>TypeScript
+    </td>  
+     <td align="center" width="96">
+      <a href="#" >
+        <img src="https://raw.githubusercontent.com/mamun8893/image/refs/heads/main/react-native-1.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React Native
+    </td> 
   <td align="center" width="96"> 
       <a href="#" >
         <img src="https://www.json.org/img/json160.gif" width="48" height="48" alt="json" />
