@@ -154,13 +154,5 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mamun8893&card_width=555)](https://github.com/mamun8893)
 
-<h2 align="center"> 𝗩ISITORS </h2>
-<p align="center">
-    <img title="Visitors" src="https://profile-counter.glitch.me/mamun8893/count.svg" />
-  
 
-</p>
-<br>
-<p align="center">
-  <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
-</p>
+
