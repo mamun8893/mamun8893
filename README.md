@@ -156,8 +156,8 @@
 
 <h2 align="center"> 𝗩ISITORS </h2>
 <p align="center">
-    <img title="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=mamun8893" />
-  ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+    <img title="Visitors" src="https://profile-counter.glitch.me/mamun8893/count.svg" />
+  
 
 </p>
 <br>
