@@ -8,7 +8,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Mamunur Rashid, a passionate self-taught Front-End Developer 🚀 from Bangladesh.I have 2+ years of experience in the field I continually seek learning and I love JS 💛.
+  Hi, I'm Mamunur Rashid, a passionate self-taught Front-End Developer 🚀 from Bangladesh.I have 5+ years of experience in the field I continually seek learning and I love JS 💛.
   <br>
   <br>
   🎓 I graduated from World University of Bangladesh Computer Engineering & Engineering Department
